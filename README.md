@@ -48,8 +48,11 @@ Apigee
  
 
 9. Dont close the website, you will need it for next steps.
+10. 
 
 Now you have all information needed for Qlik Rest Connector, to create new Qlik Sense connection you need to:
+
+
 1. Open data load editor and in the right corner click create new connection
  
 
