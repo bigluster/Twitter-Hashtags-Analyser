@@ -7,15 +7,22 @@ A Qlik Sense app that is using Qlik REST Connector to load data from Twitter. Is
 To use this app in Qlik Sense you need to: 
 
 Download
+
+
 1. Download Qlik REST API Connector http://market.qlik.com/rest-connector.html
 
 
 2. Download extension WordCloud https://github.com/cleveranjos/br.com.clever.wordcloud/ or https://community.qlik.com/docs/DOC-7794
 
 Twitter
+
+
 1. Have or Create an Account on Twitter (for authentication)
 
+
 Apigee
+
+
 1. Go to https://apigee.com/console/twitter
 
 
