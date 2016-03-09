@@ -43,7 +43,8 @@ Now you have all information needed for Qlik Rest Connector, to create new Qlik 
 12. Test conection    
 13. In the sheet Twitter_user you have load script
 14. Now you can Load data or preview the data.
-15. That´s all!
+15. ThatB4s all!
 
 Enyoj!
+
 Maros
