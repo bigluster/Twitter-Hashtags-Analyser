@@ -3,6 +3,10 @@
 /* Version 1.0
 A Qlik Sense app that is using Qlik REST Connector to load data from Twitter. Is has some limitation of rows loaded from Twitter.
 
+![Screen 1](https://github.com/marosvongrej/Twitter-Hashtags-Analyser/blob/master/QS1.png?raw=true "Screen 1")
+
+
+![Screen 2](https://raw.githubusercontent.com/marosvongrej/Twitter-Hashtags-Analyser/master/QS2.png "Screen 2")
 
 To use this app in Qlik Sense you need to: 
 
