@@ -57,6 +57,12 @@ Apigee
 Now you have all information needed for Qlik Rest Connector, to create new Qlik Sense connection you need to:
 
 
+![Screen 3](https://raw.githubusercontent.com/marosvongrej/Twitter-Hashtags-Analyser/master/QSSET1.png "Screen 3")
+
+
+![Screen 4](https://raw.githubusercontent.com/marosvongrej/Twitter-Hashtags-Analyser/master/QSSET2.png "Screen 4")
+
+
 1. Open data load editor and in the right corner click create new connection
  
 
@@ -108,3 +114,5 @@ Now you have all information needed for Qlik Rest Connector, to create new Qlik 
 Enyoj!
 
 Maros
+twitter: @MarosVongrej
+Linkedin: Maroš Vongrej https://cz.linkedin.com/in/maroš-vongrej-927a7153
